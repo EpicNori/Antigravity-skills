@@ -1,0 +1,4 @@
+interface:
+  display_name: "City Builder Strategy"
+  short_description: "Create city-builder and strategy prototypes"
+  default_prompt: "Use $city-builder-strategy to generate a city-builder or strategy game prototype with clear systems and a playable core loop."
