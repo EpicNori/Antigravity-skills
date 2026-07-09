@@ -50,6 +50,18 @@ Imported skills:
 - `playcanvas-engine`
 - `web3d-integration-patterns`
 
+## Imported From `desplega-ai/agent-swarm`
+
+Source:
+- [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm)
+- [SkillsMP composio page](https://skillsmp.com/creators/desplega-ai/agent-swarm/plugin-skills-composio)
+
+Repository snapshot at research time:
+- Last updated on source page: `2026-06-02`
+
+Imported skills:
+- `composio`
+
 ## Considered But Not Imported
 
 - `Besty0728/Unity-Skills`

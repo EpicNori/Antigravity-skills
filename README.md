@@ -5,6 +5,7 @@
 - `animation-system`: Godot animation trees, blend spaces, state transitions, and animation-driven gameplay
 - `babylonjs-engine`: Babylon.js skill for browser-based 3D apps and game scenes
 - `camera-system`: Godot 2D/3D camera setup, follow rigs, smoothing, shake, and transitions
+- `composio`: Composio hub skill for third-party app access through Agent Swarm
 - `city-builder-strategy`: generate city-builder, colony-sim, RTS, tactics, and 4X-lite game prototypes with clear systems and playable loops
 - `godot-optimization`: Godot performance profiling and optimization for rendering, physics, scripts, and memory
 - `particles-vfx`: Godot particle systems and VFX patterns for gameplay feedback
