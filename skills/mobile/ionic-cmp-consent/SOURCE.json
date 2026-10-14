@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-cmp-consent/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-cmp-consent",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "84feff882575472f62edc25c498efa271f98dc9617d6bfe070afd03b0e014d55",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "3 out-of-package documentation links pinned upstream"
+  ]
+}

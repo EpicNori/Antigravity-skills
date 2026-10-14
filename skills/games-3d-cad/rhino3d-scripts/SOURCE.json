@@ -1,0 +1,14 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/rhino3d-scripts/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/rhino3d-scripts",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "6618e636ac83c50a034a477e2ce6b2c0b2f4d8a0fc9dfd4ea0d676a8d32c4c80",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

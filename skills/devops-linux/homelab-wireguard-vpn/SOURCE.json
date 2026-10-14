@@ -1,0 +1,14 @@
+{
+  "repository": "affaan-m/everything-claude-code",
+  "commit": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+  "path": "skills/homelab-wireguard-vpn/SKILL.md",
+  "url": "https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/homelab-wireguard-vpn",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "38df424e399549d3ba42d6f50c77554d9a88a46b3bac4dd1436158874535c13c",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

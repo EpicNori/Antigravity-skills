@@ -1,0 +1,15 @@
+{
+  "repository": "affaan-m/everything-claude-code",
+  "commit": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+  "path": "skills/i18n-sync/SKILL.md",
+  "url": "https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/i18n-sync",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "05fc3e2ae72c2f55cc44fa0e9531688c1112081037d628e1124fd5bf40825325",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "3 out-of-package documentation links pinned upstream"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "affaan-m/everything-claude-code",
+  "commit": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+  "path": "skills/iterative-retrieval/SKILL.md",
+  "url": "https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/iterative-retrieval",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "b453b16d3e36174b8487c05ab807d0321a66c2d058812b2ae129d82824183725",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

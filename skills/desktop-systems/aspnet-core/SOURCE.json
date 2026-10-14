@@ -1,0 +1,14 @@
+{
+  "repository": "openai/skills",
+  "commit": "49f948faa9258a0c61caceaf225e179651397431",
+  "path": "skills/.curated/aspnet-core/SKILL.md",
+  "url": "https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/aspnet-core",
+  "license": "Apache-2.0",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "1f487ef3565e5ac1ee6c93cbeb9ac666292b30285877c82ddb0a77c9777fe92f",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

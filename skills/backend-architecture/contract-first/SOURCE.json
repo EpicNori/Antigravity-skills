@@ -1,0 +1,14 @@
+{
+  "repository": "affaan-m/everything-claude-code",
+  "commit": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+  "path": "skills/contract-first/SKILL.md",
+  "url": "https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/contract-first",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "3eaacf16a9bbd92888659e9c1e15b0fa4eb96a41c257dd9e08f2e63b824f0cea",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

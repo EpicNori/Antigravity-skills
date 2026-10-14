@@ -1,0 +1,14 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/dependabot/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/dependabot",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "2b5f3af7d8a5555d330d4d72ba9ad6140e85215d006dd9d7a92ee0dae76bbf82",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

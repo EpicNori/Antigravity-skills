@@ -1,0 +1,14 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/project-workflow-analysis-blueprint-generator/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/project-workflow-analysis-blueprint-generator",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "1563be31e5dd0568317b196dc92e10282a41d628db7bc04a990ad9019d35c37b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

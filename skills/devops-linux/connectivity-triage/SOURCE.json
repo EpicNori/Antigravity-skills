@@ -1,0 +1,14 @@
+{
+  "repository": "wshobson/agents",
+  "commit": "46891e7e60da0e52baf1050b7b6391b64e84c6d9",
+  "path": "plugins/incident-response/skills/connectivity-triage/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/46891e7e60da0e52baf1050b7b6391b64e84c6d9/plugins/incident-response/skills/connectivity-triage",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "08cd3ebe37f8ea4d623e23f61f78f06ab897e69b19865ddf370e6d4f89df2c2b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

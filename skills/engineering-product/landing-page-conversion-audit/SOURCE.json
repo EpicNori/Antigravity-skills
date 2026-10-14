@@ -1,0 +1,14 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/landing-page-conversion-audit/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/landing-page-conversion-audit",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "84f68e6bd95188db4532804b6cb20cf193fcca660e5a09ed384cfb5834211017",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

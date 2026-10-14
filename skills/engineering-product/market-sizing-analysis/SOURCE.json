@@ -1,0 +1,14 @@
+{
+  "repository": "wshobson/agents",
+  "commit": "46891e7e60da0e52baf1050b7b6391b64e84c6d9",
+  "path": "plugins/startup-business-analyst/skills/market-sizing-analysis/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/46891e7e60da0e52baf1050b7b6391b64e84c6d9/plugins/startup-business-analyst/skills/market-sizing-analysis",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "373c3f2089d5fa5228c3d24bf12ffacc6fefe04208d0df114ad75832c596e943",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

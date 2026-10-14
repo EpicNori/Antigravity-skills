@@ -1,0 +1,14 @@
+{
+  "repository": "wshobson/agents",
+  "commit": "46891e7e60da0e52baf1050b7b6391b64e84c6d9",
+  "path": "plugins/python-development/skills/uv-package-manager/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/46891e7e60da0e52baf1050b7b6391b64e84c6d9/plugins/python-development/skills/uv-package-manager",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "14df843d2d7958257e47933961914ff6598adb8422e4759000586c43ce80ab2c",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

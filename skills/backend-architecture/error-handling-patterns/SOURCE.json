@@ -1,0 +1,14 @@
+{
+  "repository": "wshobson/agents",
+  "commit": "46891e7e60da0e52baf1050b7b6391b64e84c6d9",
+  "path": "plugins/developer-essentials/skills/error-handling-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/46891e7e60da0e52baf1050b7b6391b64e84c6d9/plugins/developer-essentials/skills/error-handling-patterns",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "5fb7f4d995fc05386a8c04b045f96fd3cb652cbd31fd52d78966f86323b373b8",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

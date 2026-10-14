@@ -1,0 +1,14 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/capacitor-foldable/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/capacitor-foldable",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "0552f357c4fa1759876064f50fc3cb633df520ef123656ae9e6f8931eb139018",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

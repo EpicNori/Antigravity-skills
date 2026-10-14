@@ -58,3 +58,26 @@ Imported skills:
   Reason: useful engine-specific material, but the strongest Unreal/Godot entries are still more workflow- and script-coupled than the selected GodotPrompter and web-3D skills.
 - `abagames/headless-godot-skill-kit`
   Reason: valuable headless workflow, but it depends on accompanying Godot patch/test scripts; omitted to keep this import strictly markdown-only and self-consistent.
+
+## Expansion reviewed on October 14, 2026
+
+427 complete skill packages were added; 27 existing root-level packages remain. This pass preserves supporting files and legal notices, unlike the earlier Markdown-only imports described above. Each import has a pinned commit and original entrypoint SHA-256 in its SOURCE.json.
+
+| Source | Packages | License handling |
+| --- | ---: | --- |
+| [TheQtCompanyRnD/agent-skills](https://github.com/TheQtCompanyRnD/agent-skills) | 13 | BSD-3-Clause; package notices retained |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 99 | CC-BY-SA-4.0, MIT; package notices retained |
+| [anthropics/skills](https://github.com/anthropics/skills) | 6 | Apache-2.0; package notices retained |
+| [erkamyaman/ionic-capacitor-skills](https://github.com/erkamyaman/ionic-capacitor-skills) | 18 | MIT; package notices retained |
+| [firebase/agent-skills](https://github.com/firebase/agent-skills) | 13 | Apache-2.0; package notices retained |
+| [gabriel-tutor/ionic-capacitor-skills](https://github.com/gabriel-tutor/ionic-capacitor-skills) | 1 | MIT; package notices retained |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 112 | Apache-2.0, MIT; package notices retained |
+| [openai/skills](https://github.com/openai/skills) | 20 | Apache-2.0, MIT; package notices retained |
+| [supabase/agent-skills](https://github.com/supabase/agent-skills) | 2 | MIT; package notices retained |
+| [wshobson/agents](https://github.com/wshobson/agents) | 143 | MIT; package notices retained |
+
+The Qt packages use the BSD-3-Clause option. Per-package notices take precedence over repository-level licensing. Frontmatter normalization and repaired documentation links are recorded as adaptations in SOURCE.json. No blanket relicensing is applied.
+
+Candidate exclusions are recorded in catalog/not-imported.json. The Vercel README states MIT, but the selected package ancestry did not contain a complete license file; those packages are linked in the discovery inventory pending notice verification. A mixed-license aggregator was indexed but not copied. One duplicate security-review skill was excluded.
+
+The prior root-level packages have not had their original licenses or missing non-Markdown dependencies reconstructed in this pass.

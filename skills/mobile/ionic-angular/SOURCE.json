@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-angular/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-angular",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "7a633fc3ca12959a951cbc0c3c9a166caa7d17f4ffab7989c708fe5028cffc22",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "18 out-of-package documentation links pinned upstream"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "wshobson/agents",
+  "commit": "46891e7e60da0e52baf1050b7b6391b64e84c6d9",
+  "path": "plugins/incident-response/skills/on-call-handoff-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/46891e7e60da0e52baf1050b7b6391b64e84c6d9/plugins/incident-response/skills/on-call-handoff-patterns",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "46d03bf3a2922e77d0393dc6c0f0342056a25af15bee7c7523b0adc6d1e5d49e",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "2 out-of-package documentation links pinned upstream"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/quality-playbook/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/quality-playbook",
+  "license": "Apache-2.0",
+  "license_files": [
+    "LICENSE.txt",
+    "upstream-licenses/1-LICENSE"
+  ],
+  "source_sha256": "2b6f0e36e5427d81d94b2ac35ec6e657c57fb9434ba0d9a011b0e462b04ae729",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

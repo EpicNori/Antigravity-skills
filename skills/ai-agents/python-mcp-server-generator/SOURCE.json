@@ -1,0 +1,15 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/python-mcp-server-generator/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/python-mcp-server-generator",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "d12cecc1c39ef7fb3e580b7965bb1a8bf46daf1b0d5d04f09d0b858283c5ae2a",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

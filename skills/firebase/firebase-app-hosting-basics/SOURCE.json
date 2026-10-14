@@ -1,0 +1,14 @@
+{
+  "repository": "firebase/agent-skills",
+  "commit": "306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b",
+  "path": "skills/firebase-app-hosting-basics/SKILL.md",
+  "url": "https://github.com/firebase/agent-skills/tree/306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b/skills/firebase-app-hosting-basics",
+  "license": "Apache-2.0",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "4002ff726f8792eabd9d740d20571e586b87f2616f3d3ce3f4e0e892eb318ce3",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-firebase/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-firebase",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "8f644bd05545e959a4ebe20ca7fc741bbe6ba7e1f4f02c3675d81c38918ecddd",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "8 out-of-package documentation links pinned upstream"
+  ]
+}

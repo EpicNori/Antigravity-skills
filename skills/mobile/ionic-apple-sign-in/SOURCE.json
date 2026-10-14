@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-apple-sign-in/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-apple-sign-in",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "f573a553b783771dec2255aa8f012f6bd259887b888724dc31985cd7f3d4682b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "2 out-of-package documentation links pinned upstream"
+  ]
+}

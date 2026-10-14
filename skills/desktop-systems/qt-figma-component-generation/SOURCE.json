@@ -1,0 +1,15 @@
+{
+  "repository": "TheQtCompanyRnD/agent-skills",
+  "commit": "a784c48445e34f126760f17ba0600a25f2d19968",
+  "path": "skills/qt-figma-component-generation/SKILL.md",
+  "url": "https://github.com/TheQtCompanyRnD/agent-skills/tree/a784c48445e34f126760f17ba0600a25f2d19968/skills/qt-figma-component-generation",
+  "license": "BSD-3-Clause",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "d109c6fd5bd795b0560791cbb380d70506d6fc00d0ea8cfcdee3f7789e24ecb2",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

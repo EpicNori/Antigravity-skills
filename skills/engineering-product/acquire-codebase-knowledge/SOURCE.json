@@ -1,0 +1,15 @@
+{
+  "repository": "github/awesome-copilot",
+  "commit": "f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8",
+  "path": "skills/acquire-codebase-knowledge/SKILL.md",
+  "url": "https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/acquire-codebase-knowledge",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "a86527533d2ee4df27063af24402b9e1a345c33bba3cf423c96da7cdb3864a60",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

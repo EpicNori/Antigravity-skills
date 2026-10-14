@@ -1,0 +1,16 @@
+{
+  "repository": "TheQtCompanyRnD/agent-skills",
+  "commit": "a784c48445e34f126760f17ba0600a25f2d19968",
+  "path": "skills/qt-qml-docs/SKILL.md",
+  "url": "https://github.com/TheQtCompanyRnD/agent-skills/tree/a784c48445e34f126760f17ba0600a25f2d19968/skills/qt-qml-docs",
+  "license": "BSD-3-Clause",
+  "license_files": [
+    "LICENSE.txt",
+    "upstream-licenses/1-LICENSE"
+  ],
+  "source_sha256": "d6a02bd7ed38e08c1b81af84c53c10ab70b35ac7cfdb982932aed78f21529972",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-react/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-react",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "eeef79c6a655aa324430aa0bef7bfe158614a78524bd8d703901fcbac7c044c4",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "21 out-of-package documentation links pinned upstream"
+  ]
+}

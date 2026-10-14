@@ -1,0 +1,16 @@
+{
+  "repository": "TheQtCompanyRnD/agent-skills",
+  "commit": "a784c48445e34f126760f17ba0600a25f2d19968",
+  "path": "skills/qt-cmake-project/SKILL.md",
+  "url": "https://github.com/TheQtCompanyRnD/agent-skills/tree/a784c48445e34f126760f17ba0600a25f2d19968/skills/qt-cmake-project",
+  "license": "BSD-3-Clause",
+  "license_files": [
+    "LICENSE.txt",
+    "upstream-licenses/1-LICENSE"
+  ],
+  "source_sha256": "ab55f9ced2a898db26519bba1283090cf1af985f83e6137195a34d7f2aedcc35",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

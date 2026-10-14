@@ -1,0 +1,17 @@
+{
+  "repository": "TheQtCompanyRnD/agent-skills",
+  "commit": "a784c48445e34f126760f17ba0600a25f2d19968",
+  "path": "skills/qt-cpp-review/SKILL.md",
+  "url": "https://github.com/TheQtCompanyRnD/agent-skills/tree/a784c48445e34f126760f17ba0600a25f2d19968/skills/qt-cpp-review",
+  "license": "BSD-3-Clause",
+  "license_files": [
+    "LICENSE.txt",
+    "upstream-licenses/1-LICENSE"
+  ],
+  "source_sha256": "70a493f78eec9ef577bf1347e4b66d4f4ead33e2d8e665177810dcd31e2498ba",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support",
+    "Description spells out comparison for bundled Codex validator"
+  ]
+}

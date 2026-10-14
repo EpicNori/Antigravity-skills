@@ -1,0 +1,14 @@
+{
+  "repository": "gabriel-tutor/ionic-capacitor-skills",
+  "commit": "7098588f1ffe9ec3d7611e2b197877756dc59b24",
+  "path": "ionic-capacitor/SKILL.md",
+  "url": "https://github.com/gabriel-tutor/ionic-capacitor-skills/tree/7098588f1ffe9ec3d7611e2b197877756dc59b24/ionic-capacitor",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "20134dab1054d60c235e739ff73af009727d4de53be2e4c18c55323f62998a59",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

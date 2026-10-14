@@ -1,0 +1,14 @@
+{
+  "repository": "supabase/agent-skills",
+  "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+  "path": "skills/supabase/SKILL.md",
+  "url": "https://github.com/supabase/agent-skills/tree/c9be0e931b7930f7d02126d04774d904c381e7d7/skills/supabase",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "697e0e949f97621c6fc1784169eb3ccbf673747d6bb8299a52962d3d84d93dc6",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

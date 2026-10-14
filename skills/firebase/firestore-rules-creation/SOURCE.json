@@ -1,0 +1,14 @@
+{
+  "repository": "firebase/agent-skills",
+  "commit": "306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b",
+  "path": "skills/firestore-rules-creation/SKILL.md",
+  "url": "https://github.com/firebase/agent-skills/tree/306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b/skills/firestore-rules-creation",
+  "license": "Apache-2.0",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "26056872489c535ac58e35de52bf76b14a13607fa57d57f0e6e85f1b0be7e583",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata"
+  ]
+}

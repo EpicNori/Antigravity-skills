@@ -1,0 +1,4 @@
+# Keep repository tooling and documentation consistent across platforms.
+* text=auto eol=lf
+# Imported resource hashes describe exact upstream/adapted bytes.
+skills/** -text

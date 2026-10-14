@@ -1,0 +1,15 @@
+{
+  "repository": "firebase/agent-skills",
+  "commit": "306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b",
+  "path": "skills/firebase-remote-config-basics/SKILL.md",
+  "url": "https://github.com/firebase/agent-skills/tree/306cc1844c47839bd4f2c7dba7cc3c394e4f3e0b/skills/firebase-remote-config-basics",
+  "license": "Apache-2.0",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "9768294ce83681a4a0361831a50b6d6341d98155145384626b148179cf936c8b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "Compatibility retained under metadata for bundled Codex validator support"
+  ]
+}

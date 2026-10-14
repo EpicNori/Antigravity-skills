@@ -1,0 +1,15 @@
+{
+  "repository": "erkamyaman/ionic-capacitor-skills",
+  "commit": "b3125f71e0ac8c7975d926843bbe4e8504db41ab",
+  "path": "skills/ionic-local-notifications/SKILL.md",
+  "url": "https://github.com/erkamyaman/ionic-capacitor-skills/tree/b3125f71e0ac8c7975d926843bbe4e8504db41ab/skills/ionic-local-notifications",
+  "license": "MIT",
+  "license_files": [
+    "upstream-licenses/0-LICENSE"
+  ],
+  "source_sha256": "4383278b237b40b11f75f00afde1d98473cdcda076864943690ae9bcca8fa15b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "1 out-of-package documentation links pinned upstream"
+  ]
+}

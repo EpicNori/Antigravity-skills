@@ -1,0 +1,16 @@
+{
+  "repository": "affaan-m/everything-claude-code",
+  "commit": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+  "path": "skills/osint-investigation/SKILL.md",
+  "url": "https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/osint-investigation",
+  "license": "CC-BY-SA-4.0",
+  "license_files": [
+    "LICENSE.txt",
+    "upstream-licenses/1-LICENSE"
+  ],
+  "source_sha256": "f30f873cb28cd3befc757dc7ea63d29250d6537c20c7fe4de8394fde0c2bd78b",
+  "changes": [
+    "Portable YAML frontmatter; unsupported fields retained under metadata",
+    "4 out-of-package documentation links pinned upstream"
+  ]
+}
