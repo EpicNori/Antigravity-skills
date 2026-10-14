@@ -78,6 +78,6 @@ Imported skills:
 
 The Qt packages use the BSD-3-Clause option. Per-package notices take precedence over repository-level licensing. Frontmatter normalization and repaired documentation links are recorded as adaptations in SOURCE.json. No blanket relicensing is applied.
 
-Candidate exclusions are recorded in catalog/not-imported.json. The Vercel README states MIT, but the selected package ancestry did not contain a complete license file; those packages are linked in the discovery inventory pending notice verification. A mixed-license aggregator was indexed but not copied. One duplicate security-review skill was excluded.
+The Vercel README states MIT, but the selected package ancestry did not contain a complete license file; those packages were not copied pending notice verification. A mixed-license aggregator was not copied. One duplicate security-review skill was excluded.
 
 The prior root-level packages have not had their original licenses or missing non-Markdown dependencies reconstructed in this pass.

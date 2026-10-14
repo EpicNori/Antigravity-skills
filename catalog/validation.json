@@ -1,7 +1,0 @@
-{
-  "skills": 454,
-  "errors": [],
-  "warnings": [],
-  "checked": "YAML, names, package inventory, resource hashes, source records, legal notices, entrypoint documentation links",
-  "limits": "Static validation does not execute upstream scripts, prove runtime behavior, or audit every instruction."
-}
